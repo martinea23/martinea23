@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=martinea23&label=Profile%20views&color=0e75b6&style=flat" alt="martinea23" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=martinea23" alt="martinea23" /></a> </p>
 
 - 🔭 I’m currently working on [Soccer IQ](https://github.com/martinea23/SoccerIQ)
 
@@ -11,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [axlmtz.com](axlmtz.com)
 
-- 💬 Ask me about **React, Html/CSS , Anything!**
+- 💬 Ask me about **Anything!**
 
 - 📫 How to reach me **mtzaxl23@gmail.com**
 
@@ -29,4 +28,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=martinea23&show_icons=true&locale=en" alt="martinea23" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=martinea23&" alt="martinea23" /></p>
